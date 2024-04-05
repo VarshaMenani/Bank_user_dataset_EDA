@@ -5,6 +5,7 @@ This notebook focuses on researching statistical information regarding the custo
 
 ### **Defining the problem statement**
 The dataset contains various credit related variable like credit age, types of loan, credit utilization and so on along with their credit score categorised into Good, Standard and bad. We want to analyze which variables influences the credit score and how.
+
 ![](images/images.jpeg)
 
 ### **Methodology**
